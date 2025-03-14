@@ -1,0 +1,6 @@
+# bytecode gerado pelo compilador java.
+/bin
+*.class
+
+# script para compilar e rodar os programas.
+*.sh
